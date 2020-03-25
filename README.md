@@ -1,2 +1,4 @@
-# sso-identityserver
-Single Sign On Implementation with Identity Server
+# SSO Implementaion with Identity Server
+
+**Reference**  
+* https://identityserver4.readthedocs.io/en/latest/
